@@ -4,6 +4,8 @@
 using namespace std;
 
 
+//o modificare
+
 
 class piese_de_joc {
 	//private:
